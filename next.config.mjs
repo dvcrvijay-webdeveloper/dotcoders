@@ -8,7 +8,7 @@ const nextConfig = {
     trailingSlash: true,
     images: {
         unoptimized: true,
-        // Uncomment and configure if using a custom image loader like Imgix
+      // Uncomment and configure if using a custom image loader like Imgix
         // loader: 'imgix',
         //path: `${process.env.BASE_URL}/`,
         
