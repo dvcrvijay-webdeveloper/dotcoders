@@ -3,6 +3,7 @@ console.log('Loaded BASE_URL:', process.env.NEXT_PUBLIC_BASE_URL); // Debugging 
 const nextConfig = {
     basePath: process.env.NEXT_PUBLIC_BASE_URL || '',
     assetPrefix: process.env.NEXT_PUBLIC_BASE_URL ? process.env.NEXT_PUBLIC_BASE_URL + '/' : '',
+   
     //basePath: '/vijay-portfolio/next',
     trailingSlash: true,
     images: {
