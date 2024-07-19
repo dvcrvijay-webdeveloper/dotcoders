@@ -1,0 +1,23 @@
+ .display-tc  {
+    font-family: "Kaushan Script", cursive;
+    margin-bottom: 30px;
+    font-size: 40px;
+    line-height: 1.3;
+    font-weight: 300;
+    -webkit-transform: rotate(-5deg);
+    -moz-transform: rotate(-5deg);
+    -ms-transform: rotate(-5deg);
+    -o-transform: rotate(-5deg);
+    transform: rotate(-5deg);
+}
+
+@media screen and (max-width: 768px) {
+     .display-tc  {
+        font-size: 34px !important;
+    }
+}
+
+ .display-sm  {
+    font-family: "Kaushan Script", cursive;
+
+}
