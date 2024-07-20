@@ -389,7 +389,7 @@ export default function Home() {
             data-fancybox="gallery"
             data-caption=""
           >
-            <Image width="0" height="0"   src="assets/img/work/w1.jpg" alt="" />
+            <Image width="0" height="100"  style={{height:'250px'}} src="assets/img/work/w1.jpg" alt="" />
           </div>
         </div>
         <div className="grid-item apps wow zoomIn">
@@ -399,7 +399,7 @@ export default function Home() {
             data-fancybox="gallery"
             data-caption=""
           >
-            <Image width="0" height="0"   src="assets/img/work/w2.jpg" alt="" />
+            <Image width="0" height="0" style={{height:'250px'}}  src="assets/img/work/w2.jpg" alt="" />
           </div>
         </div>
         <div className="grid-item apps wow zoomIn">
@@ -409,7 +409,7 @@ export default function Home() {
             data-fancybox="gallery"
             data-caption=""
           >
-            <Image width="0" height="0"   src="assets/img/work/w3.jpg" alt="" />
+            <Image width="0" height="0" style={{height:'250px'}}  src="assets/img/work/w3.jpg" alt="" />
           </div>
         </div>
         <div className="grid-item apps wow zoomIn">
@@ -419,7 +419,7 @@ export default function Home() {
             data-fancybox="gallery"
             data-caption=""
           >
-            <Image width="0" height="0"   src="assets/img/work/w4.jpg" alt="" />
+            <Image width="0" height="0" style={{height:'250px'}}  src="assets/img/work/w4.jpg" alt="" />
           </div>
         </div>
         <div className="grid-item apps wow zoomIn">
@@ -429,7 +429,7 @@ export default function Home() {
             data-fancybox="gallery"
             data-caption=""
           >
-            <Image width="0" height="0"   src="assets/img/work/w5.jpg" alt="" />
+            <Image width="0" height="0" style={{height:'250px'}}  src="assets/img/work/w5.jpg" alt="" />
           </div>
         </div>
         <div className="grid-item apps wow zoomIn">
@@ -439,7 +439,7 @@ export default function Home() {
             data-fancybox="gallery"
             data-caption=""
           >
-            <Image width="0" height="0"   src="assets/img/work/w6.jpg" alt="" />
+            <Image width="0" height="0" style={{height:'250px'}}  src="assets/img/work/w6.jpg" alt="" />
           </div>
         </div>
         <div className="grid-item apps wow zoomIn">
@@ -449,7 +449,7 @@ export default function Home() {
             data-fancybox="gallery"
             data-caption=""
           >
-            <Image width="0" height="0"   src="assets/img/work/w8.jpg" alt="" />
+            <Image width="0" height="0" style={{height:'250px'}}  src="assets/img/work/w8.jpg" alt="" />
           </div>
         </div>
         <div className="grid-item apps wow zoomIn">
@@ -459,7 +459,7 @@ export default function Home() {
             data-fancybox="gallery"
             data-caption=""
           >
-            <Image width="0" height="0"   src="assets/img/work/w7.jpg" alt="" />
+            <Image width="0" height="0" style={{height:'250px'}}  src="assets/img/work/w7.jpg" alt="" />
           </div>
         </div>
         <div className="grid-item apps wow zoomIn">
@@ -469,7 +469,7 @@ export default function Home() {
             data-fancybox="gallery"
             data-caption=""
           >
-            <Image width="0" height="0"  src="assets/img/work/w10.jpg" alt="" />
+            <Image width="0" height="0" style={{height:'250px'}} src="assets/img/work/w10.jpg" alt="" />
           </div>
         </div>
         <div className="grid-item apps wow zoomIn">
@@ -479,7 +479,7 @@ export default function Home() {
             data-fancybox="gallery"
             data-caption=""
           >
-            <Image width="0" height="0"   src="assets/img/work/w9.jpg" alt="" />
+            <Image width="0" height="0" style={{height:'250px'}}  src="assets/img/work/w9.jpg" alt="" />
           </div>
         </div>
         <div className="grid-item apps wow zoomIn">
@@ -489,7 +489,7 @@ export default function Home() {
             data-fancybox="gallery"
             data-caption=""
           >
-            <Image width="0" height="0"   src="assets/img/work/w11.jpg" alt="" />
+            <Image width="0" height="0"  style={{height:'250px'}} src="assets/img/work/w11.jpg" alt="" />
           </div>
         </div>
         <div className="grid-item apps wow zoomIn">
@@ -499,7 +499,7 @@ export default function Home() {
             data-fancybox="gallery"
             data-caption=""
           >
-            <Image width="0" height="0"   src="assets/img/work/w12.jpg" alt="" />
+            <Image width="0" height="0" style={{height:'250px'}}  src="assets/img/work/w12.jpg" alt="" />
           </div>
         </div>
         {/*

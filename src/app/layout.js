@@ -66,10 +66,10 @@ export default function RootLayout({ children }) {
       <Script src="assets/vendor/isotope/isotope.pkgd.min.js" />
       <Script src="assets/vendor/nice-select/js/jquery.nice-select.min.js" />
       <Script src="assets/vendor/fancybox/js/jquery.fancybox.min.js" />
-      <Script src="assets/vendor/wow/wow.min.js" />
+      <Script src="assets/vendor/wow/wow.min.js" /> 
       <Script src="assets/vendor/animateNumber/jquery.animateNumber.min.js" />
       <Script src="assets/vendor/waypoints/jquery.waypoints.min.js" />
-      <Script src="assets/js/google-maps.js" />
+      {/* <Script src="assets/js/google-maps.js" /> */}
       <Script src="assets/js/topbar-virtual.js" />
     </html>
   );
