@@ -38,7 +38,7 @@ export default function RootLayout({ children }) {
           content="web design, web development, php, laravel, wordpress, Full Stack Developer"
         />
         <meta name="author" content="vijay" />
-        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+        <link rel="shortcut icon" href="/faviconN.ico" type="image/x-icon" />
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
